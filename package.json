@@ -1,0 +1,19 @@
+{
+  "name": "hyperapp-modules",
+  "version": "0.0.1",
+  "description": "Turn a tree of hyperapp modules into state, actions and wired views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaceno/hyperapp-modules.git"
+  },
+  "author": "Zacharias Enochsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaceno/hyperapp-modules/issues"
+  },
+  "homepage": "https://github.com/zaceno/hyperapp-modules#readme"
+}
